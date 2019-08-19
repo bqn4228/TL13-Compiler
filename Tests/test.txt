@@ -1,0 +1,8 @@
+program
+	var X as int ;
+	var Y as bool ;
+begin
+	X := Y;
+	
+	writeInt X ;
+end
